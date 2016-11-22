@@ -1,7 +1,7 @@
 /**
 * func:	利用fork()创建子进程
 *	利用kill()杀死进程
-* auth:	陈骏轩<chenjx@stu.xmu.edu.cn>
+* auth:	CJX
 **/
 #include<sys/types.h>
 #include<stdio.h>
